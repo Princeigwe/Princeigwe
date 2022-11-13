@@ -4,7 +4,7 @@ Hi 👋 My name is Prince Igwenagha
 Backend Developer
 -----------------
 
-I am a Python backend developer in default mode, experimenting with Nest.js framework... and I got my eyes on AWS Cloud.
+A dedicated backend developer with about 2 years of eperience with technologies such as Typescript, Python, Django, NestJs, Git and Docker, to mention a few. Prince has designed and developed web application with API services with third-party integrations and databases,.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
