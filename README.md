@@ -4,7 +4,7 @@ Hi 👋 My name is Prince Igwenagha
 Backend Developer
 -----------------
 
-A dedicated backend developer with about 2 years of eperience with technologies such as Typescript, Python, Django, NestJs, Git and Docker, to mention a few. Prince has designed and developed web application with API services with third-party integrations and databases.
+A dedicated backend developer with about 2 years of eperience with technologies such as Typescript, Python, Django, NestJs, Git and Docker, to mention a few. I have designed and developed web application and API services with third-party integrations and databases.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
