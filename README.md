@@ -10,7 +10,7 @@ A dedicated backend developer with about 2 years of eperience with technologies 
 * ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
 * 🧠  I'm forever learning.
 * 🤝  I'm open to collaborating on whatever web project that needs Python(Django) and TypeScript(Nest/Node).
-* ⚡  I'm the Ghost of Avalon.
+* ⚡  I'm the Alchemist.
 
 ### Skills
 
