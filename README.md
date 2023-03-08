@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Prince Igwenagha</h1>
-<h3 align="center">A backend developer that's always learning, always building</h3>
+<h1 align="center">Hi there 👋, I'm Prince Igwenagha.</h1>
+<h3 align="center">A backend developer that's always learning, always building.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeigwe&label=Profile%20views&color=0e75b6&style=flat" alt="princeigwe" /> </p>
+<p align="left"> <a href="https://twitter.com/igweprince0" target="blank"><img src="https://img.shields.io/twitter/follow/igweprince0?logo=twitter&style=for-the-badge" alt="igweprince0" /></a> </p>
 
 - 🔭 I’m currently working on [Elixir.io](https://github.com/Princeigwe/Elixir.io)
 
 - 🌱 I’m currently learning **Kubernetes, while building Elixir.io**
 
-- 📝 I regularly write articles on [https://princeigwe.medium.com/](https://princeigwe.medium.com)
+- 📝 I regularly write articles on [https://princeigwe.medium.com](https://princeigwe.medium.com)
 
-- 💬 Ask me about **Your choice... I prefer questions on food.**
+- 💬 Ask me about **anything tech related... but I prefer questions on food.**
 
 - 📫 How to reach me **igwep297@gmail.com**
 
-- ⚡ Fun fact **I'm the Alchemist.**
+- ⚡ Fun fact: **I'm the Alchemist:atom_symbol:.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
