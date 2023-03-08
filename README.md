@@ -11,7 +11,7 @@ A dedicated backend developer with about 2 years of eperience with technologies 
 * 🧠  I'm forever learning.
 * 🤝  I'm open to collaborating on whatever web project that needs Python(Django) and TypeScript(Nest/Node).
 * ⚡  I'm the Alchemist.
-:rocket: Working on https://github.com/Princeigwe/Elixir.io
+* :rocket: Working on https://github.com/Princeigwe/Elixir.io
 
 ### Skills
 
