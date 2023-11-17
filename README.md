@@ -5,7 +5,7 @@
 
 - 🔭 I built [Elixir.io](https://github.com/Princeigwe/Elixir.io)
 
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently building on GraphQL.
 
 - 📝 I regularly write articles on [https://princeigwe.medium.com](https://princeigwe.medium.com)
 
