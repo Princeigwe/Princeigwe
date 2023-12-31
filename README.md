@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **igwep297@gmail.com**
 
-- ⚡ Fun fact: **I'm the Alchemist:atom_symbol:.**
+- ⚡ Fun fact: **I'm the Alchemist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
