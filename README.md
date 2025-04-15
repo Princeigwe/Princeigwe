@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prince Igwenagha.</h1>
-<h3 align="center">A backend developer, and a technical writer who's always learning, and always building.</h3>
+<h3 align="center">A software engineer and a technical writer who's always learning and building.</h3>
 
 <p align="left"> <a href="https://twitter.com/igweprince0" target="blank"><img src="https://img.shields.io/twitter/follow/igweprince0?logo=twitter&style=for-the-badge" alt="igweprince0" /></a> </p>
 
