@@ -41,8 +41,9 @@ I specialize in building scalable backend systems and crafting clear, insightful
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-igwenagha)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@princeigwe)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/igweprince0)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:princeigwe.c@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/igweprince0)  
+[![Send Email](https://img.shields.io/badge/Send%20Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:princeigwe.c@gmail.com)
+
 
 
 ---
