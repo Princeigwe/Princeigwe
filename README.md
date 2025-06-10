@@ -3,6 +3,7 @@
 🎯 **Backend Engineer** | ✍️ **Technical Writer**
 
 I specialize in building scalable backend systems and crafting clear, insightful technical content.
+> 💭 **Sidenote:** I'm also actively exploring the **Web3** and **AI agents** space - learning, experimenting, and building along the way.
 
 ---
 
