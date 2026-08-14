@@ -2,7 +2,8 @@
 
 > *I turn complex systems into elegant solutions - whether that's a prescription-review pipeline running in a hospital, an AI agent talking someone through a rough night, or a smart contract settling debts on-chain without a middleman.*
 
-I'm a backend engineer operating at the intersection of **scalable APIs**, **AI agents**, and **Web3**. I don't fit neatly into one box, and I've stopped trying. I write about what I build, and I build what I find genuinely interesting.
+I focus on building backend systems, AI-powered agents, and decentralized (Web3) applications. 
+I also write about what I build, and I build what I find genuinely interesting.
 
 ---
 
