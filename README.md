@@ -1,4 +1,4 @@
-# Prince Igwenagha - The Alchemist ⚛️
+# Prince Igwenagha 
 
 > *I turn complex systems into elegant solutions - whether that's a prescription-review pipeline running in a hospital, an AI agent talking someone through a rough night, or a smart contract settling debts on-chain without a middleman.*
 
